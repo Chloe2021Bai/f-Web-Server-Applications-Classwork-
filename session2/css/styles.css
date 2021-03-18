@@ -1,0 +1,29 @@
+.a{
+    border-width: 1px;
+    border-style:dotted;
+    }
+.b{
+    
+    border-width: 1px;
+    border-style:dotted;
+    display:block;
+    width:60px;
+    }
+.c{
+    border-width: 1px;
+    border-style:dotted;
+    }
+    
+        
+        .d{
+            display:block;
+            list-style: none;
+           
+        }
+        .d li{
+            line-height: 150%;
+        }
+            
+        
+        .row{
+            text-align: center;}

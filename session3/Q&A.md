@@ -1,4 +1,5 @@
-//Question1:
+# Clouding Computing
+## Question1:
 The cloud is that a term that refers to any kind of computing which is done off site in a data center.
 it has Many different branches including:
 Cloud Storage
@@ -9,7 +10,7 @@ DaaS, SaaS, IaaS, PaaS
 Security Gateways
 Testing as a Service
 
-//Question2:
+## Question2:
 Private clouds
 
 Private cloud hosting solutions (also known as internal clouds or enterprise clouds) are located on your company's Intranet or managed data center, where all your data is protected by firewalls. For companies that already have expensive data centers, this is a good option because they can use the current infrastructure. However, the main drawback of private clouds is considered to be that all management, maintenance, and updates of the data center are the responsibility of the company. Over time, it is expected that your server will need to be replaced, which can be very expensive. Private clouds, on the other hand, provide a higher level of security and share few, if any, resources with other organizations.
@@ -20,7 +21,7 @@ The main difference between a public cloud and a private cloud is that you are n
 
 
 
-//Question3:
+## Question3:
 JD Cloud $ AI
 Tecent Cloud
 Google Cloud
@@ -29,7 +30,7 @@ Open AI
 
 how can i make a form in this file???
 
-//Question4:
+## Question4:
 //To calculate
 A free meal
 Free for 12 months

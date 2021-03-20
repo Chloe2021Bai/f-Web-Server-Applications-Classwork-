@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Update</title>
+        
+    </head>
+    <body>
+        <form name="update_user" method="post" action="update.php">
+            <table border="0">
+                <tr>
+                    <td>customers</td>
+                    <td><input type="text" name="customers" value= <?php echo $customers;?></td>
+                </tr>
+                <tr>
+                    <td><input type="hidden" name="customersID" value=<?php echo $_GET['customersID']></td>
+                    <td><input type="submit" name="update" value="Update"></td>
+                </tr>
+
+            </table>
+        </form>
+    </body>
+</html>
